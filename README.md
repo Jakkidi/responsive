@@ -38,6 +38,6 @@ Medium Screen
 
 ![App Screenshot](https://github.com/Jakkidi/responsive/blob/master/medium_screen_view.jpg?raw=true)
 
-#Small Screen
+Small Screen
 
 ![App Screenshot](https://github.com/Jakkidi/responsive/blob/master/small_screen_view.jpg?raw=true)
